@@ -1,0 +1,3 @@
+Missing Data Information
+Price    0
+dtype: int64

@@ -1,0 +1,10 @@
+Summary Statistics of Brent Oil Prices
+             Price
+count  9011.000000
+mean     48.420782
+std      32.860110
+min       9.100000
+25%      19.050000
+50%      38.570000
+75%      70.090000
+max     143.950000

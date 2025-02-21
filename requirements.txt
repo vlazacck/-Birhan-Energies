@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+ruptures
+pymc3
+seaborn
